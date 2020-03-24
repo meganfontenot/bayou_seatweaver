@@ -1,0 +1,23 @@
+{
+  "name": "bayou_seatweaver",
+  "version": "1.0.0",
+  "description": "A site for Bayou Seatweaver LLC",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meganfontenot/bayou_seatweaver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meganfontenot/bayou_seatweaver/issues"
+  },
+  "homepage": "https://github.com/meganfontenot/bayou_seatweaver#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
